@@ -1,2 +1,0 @@
-# MLH-INIT-DAY2
-day2 MLH
