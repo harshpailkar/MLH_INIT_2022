@@ -1,4 +1,4 @@
-<img align="center" src="newbanner.png" height="50%">
+<img align="center" src="newbanner.png" height="10%">
 # MLH INIT 2022
 
 ## What is INIT?
