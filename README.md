@@ -19,6 +19,6 @@ Everytime you complete a challenge during the week of INIT, you’ll earn points
 Earn points for yourself and your guild by completing our challenges throughout INIT. Challenges aren’t the only way to earn points. You can also receive a point each time you check in for a live session, so the more you attend, the more points you’ll rack up. Learn more about our challenges here. They can be as simple as posting on your social media or as advanced as building a project and creating a full demo video for it. We’ll leave it to you to choose which challenges you want to take on. Feel free to work collaboratively with others on these.
 
 ## Results
-I was able to rank 17th on the individual hacker leaderboard amongst 6000+ participants. 
+I was able to rank 17th on the individual hacker leaderboard amongst 6000+ participants at the completion of the event. 
 
 <img align="center" src="hackerleaderboard.png">
